@@ -9,7 +9,7 @@ Este repositório contém um simples exemplo em C# que demonstra como criar um b
 1. Clone este repositório:
 
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/AndreSoftwareTech/CreateData.git)
+    git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/AndreSoftwareTech/CreateData.git
     ```
 
 2. Abra o projeto no Visual Studio ou em seu editor de código preferido.
